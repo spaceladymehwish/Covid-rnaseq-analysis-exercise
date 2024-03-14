@@ -1,0 +1,20 @@
+Sample	Disease	Individual	Source	Gender
+SRR12816718	normal	Wuhan_control_1	lung	not available
+SRR12816719	COVID-19	Wuhan_case_9	lung	female
+SRR12816720	COVID-19	Wuhan_case_8	lung	male
+SRR12816721	COVID-19	Wuhan_case_7	lung	male
+SRR12816722	COVID-19	Wuhan_case_6	lung	male
+SRR12816723	COVID-19	Wuhan_case_5	lung	female
+SRR12816724	COVID-19	Wuhan_case_4	lung	male
+SRR12816725	COVID-19	Wuhan_case_3	lung	female
+SRR12816726	normal	Wuhan_control_10	lung	not available
+SRR12816727	normal	Wuhan_control_9	lung	not available
+SRR12816728	normal	Wuhan_control_8	lung	not available
+SRR12816729	normal	Wuhan_control_7	lung	not available
+SRR12816730	normal	Wuhan_control_6	lung	not available
+SRR12816731	normal	Wuhan_control_5	lung	not available
+SRR12816732	normal	Wuhan_control_4	lung	not available
+SRR12816733	normal	Wuhan_control_3	lung	not available
+SRR12816734	normal	Wuhan_control_2	lung	not available
+SRR12816735	COVID-19	Wuhan_case_2	lung	female
+SRR12816736	COVID-19	Wuhan_case_1	lung	male
